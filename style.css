@@ -1,0 +1,15 @@
+
+img {
+    height: 200px;
+}
+
+#easterEgg {
+    margin: 50px auto;
+    padding: 50px;
+    width: 60%;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
